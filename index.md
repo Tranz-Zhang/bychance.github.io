@@ -1,6 +1,24 @@
-## Welcome to GitHub Pages
+# MiKeys
 
-You can use the [editor on GitHub](https://github.com/Tranz-Zhang/bychance.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+MiKeys is a simple and easy-use password management app. Which features:
+
+![preview_image](./assets/image/preview_github.png)
+
+- **SIMPLE** One password to keep things safe.
+
+- **ORGANIZED** Auto sorting & quick indexing.
+
+- **MINIMAL**  Only record the information you need.
+
+- **CONVENIENT** Quick preview your password.
+
+- **EASY TRANSFER** Export and import your password data easily.
+
+#### If you have any thoughts about this app, please contract me via gmail: **tranz.zhang@gmail.com**
+
+### Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://tranz.zhang@gmail.com) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
