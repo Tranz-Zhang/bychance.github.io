@@ -1,7 +1,16 @@
-# MiKeys
 
-#### MiKeys is a simple and easy-use password management app. Which features:
+![preview_image](./assets/image/preview_github.png)
 
-![preview_image](./assets/image/preview_github.jpg)
+**MiKeys** is a simple and easy-use password management app. Which features:
 
-#### If you have any thoughts about this app, please contract me via gmail: `tranz.zhang@gmail.com`
+- **SIMPLE** One password to keep things safe.
+
+- **ORGANIZED** Auto sorting & quick indexing.
+
+- **MINIMAL**  Only record the information you need.
+
+- **CONVENIENT** Quick preview your password.
+
+- **EASY TRANSFER** Export and import your password data easily.
+
+If you have any thoughts about this app, please contract me via gmail: **tranz.zhang@gmail.com**
